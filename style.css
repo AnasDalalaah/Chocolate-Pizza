@@ -1,0 +1,211 @@
+*{
+    box-sizing: border-box;
+  }
+  body {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  header {
+    margin-bottom: -70px;
+  }
+  #logo{
+      position: relative;
+      top: 50px;
+      width: 40px;
+  }
+  header h4 {
+  position: relative;
+  left: 45px;
+  bottom : 10px;
+  font-size : 40px ; 
+  font-family :'Yellowtail';
+  margin-top: auto;
+  }
+  header p {
+    position: relative;
+    left: 45px;
+    bottom : 70px;
+   font-size: 12px;
+   color: rgb(141, 135, 135);
+  }
+  nav{
+      position: relative;
+      bottom:130px;
+      padding-bottom: 20px;
+  }
+  nav ul li {
+    float : right ;
+    margin: 2px;
+    list-style: none;
+  }
+  #bar {
+      background-image:url("images/pic5.png");
+    position: relative;
+    left: 10px ;
+  }
+  #print {
+    position: relative;
+    float :right ;
+    font-size: 13px;
+    color: grey;
+    position: relative;
+    top: -40px;
+  }
+  #print img{
+    width: 15px;
+    height: 10px;
+  }
+  #CHOCOLATE  {
+    position: relative;
+    top: 20px;
+    left: 12px;
+    color: rgb(0, 0, 0);
+  }
+  #choc {
+    font-size: 40px;
+    font-family:'Anton';
+    font-weight: normal;
+  }
+  #posted {
+    font-size: 13px;
+    color: rgb(180, 177, 177);
+    position: relative;
+    top: -30px;
+  }
+  #bigpizza {
+   position: relative;
+    width: 100%;
+    left: 10px;
+    top: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .para {
+    position: relative;
+    top: 20px;
+    left: 10px;
+    font-family: 'Lora'; 
+    color: rgb(82, 79, 79);  
+  }
+  #listimg {
+   position: relative;
+   left :30px ;
+  top: 25px ;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  #checklist {
+    position: relative;
+    top: -10px;
+    left:-30px;
+  }
+  input , label{
+    position: relative;
+    bottom: 250px;
+    left: 45px;
+    font-size: 18px;
+    font-family: 'Kalam', cursive;
+    color: rgb(104, 45, 45);
+    width: 150px;
+  }
+  .firstcheck {
+    position: relative;
+    left: 105px;
+  }
+  .b {
+    position: relative;
+    left: 8px ;
+  }
+  .secondcheck {
+    position: relative;
+    left: 56px;
+  }
+  .thirdcheck {
+    position: relative;
+    left: 90px;
+  }
+  .fourthcheck {
+    position: relative;
+    left: 50px;
+  }
+  .c {
+    position: relative;
+    left: 45px;
+  }
+  .d {
+    position: relative;
+    left: 0px;
+  }
+  .fifthcheck {
+    position: relative;
+    left: 35px;
+  }
+  .e {
+    position: relative;
+    left: 0px;
+  }
+  .sixthcheck {
+    position: relative;
+    left: 100px;
+  }
+  .f {
+    position: relative;
+    left: 50px;
+  }
+  #downbar{
+    background-image:url("images/pic5.png");
+    position: relative;
+    left: 10px ;
+    bottom: 140px;
+  }
+  #girlimg {
+    position: relative;
+  float: left;
+  bottom: 140px;
+  }
+  #name {
+    position: relative;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  bottom: 140px;
+  left: 10px;
+  color: rgb(71, 70, 70);
+  }
+  #pio {
+    position: relative;
+    font-size: 16px;
+    bottom: 140px;
+  left: 10px;
+  font-family: 'Lora'; 
+    color: rgb(82, 79, 79);
+  }
+  #button {
+    position: relative;
+    color: white;
+    background-color: rgb(187, 107, 82);
+    font-family: 'Kalam', cursive;
+    font-size: 14px;
+    float: right;
+    bottom: 145px;
+  }
+  #rightline {
+    width: 100%;
+    bottom: 50px;
+    color: lightgray;
+  }
+  #footerimg {
+    position: relative;
+  left: 475px;
+  bottom: 25px;
+  }
+  #copyright {
+    position: relative;
+    left:375px ;
+    color: lightgray;
+    bottom: 20px;
+  }
+  #lastline {
+    position: relative;
+    left:405px ;
+    color: lightgray;
+    bottom: 10px;
+  }
